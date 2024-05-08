@@ -28,7 +28,7 @@ const PropertyDetailPage = () => {
 
           <div className="py-6 flex items-center space-x-4">
             <Image
-              src="/profile_pic_1.jpeg"
+              src="/profile_pic_1.jpg"
               alt="Profile picture"
               width={50}
               height={50}
@@ -44,7 +44,7 @@ const PropertyDetailPage = () => {
           <hr />
 
           <p className="mt-6 mb-4">
-            A unique experience in a house with modern architecture and views of the mountains of Serra da Mantiqueira. Inserted in a private area of 20,000 m2 full of natural beauties. It's the perfect place to reconnect with someone who matters most. Enjoy sleeping with the stars and waking up under the clouds. There is only 2 hours drive from São Paulo. We're pet-friendly...
+          A unique experience in a house with modern architecture and views of the mountains of Serra da Mantiqueira. We're pet friendly.
           </p>
 
           <div className="flex items-center gap-1">
