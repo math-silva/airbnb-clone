@@ -15,7 +15,7 @@ const ReservationSideBar = () => {
           </select>
         </div>
 
-        <div className="w-full mb-4 py-4 text-center text-white font-semibold bg-airbnb rounded-xl hover:bg-airbnbDark">
+        <div className="w-full mb-4 py-4 text-center text-white font-semibold bg-airbnb rounded-xl hover:bg-airbnb-dark">
           Reserve
         </div>
 
