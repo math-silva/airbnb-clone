@@ -26,7 +26,7 @@ const SearchFilters = () => {
       </div>
 
       <div className="p-2">
-        <div className="hover:cursor-pointer p-2 lg:p-4 bg-airbnb hover:bg-airbnbDark rounded-full text-white">
+        <div className="hover:cursor-pointer p-2 lg:p-4 bg-airbnb hover:bg-airbnb-dark rounded-full text-white">
           <svg 
             viewBox="0 0 32 32" 
             style={{display: 'block', fill: 'none', height: '16px', width: '16px', stroke: 'currentcolor', strokeWidth: '4', overflow: 'visible'}}
